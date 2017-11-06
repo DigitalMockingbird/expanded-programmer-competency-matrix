@@ -11,3 +11,7 @@ A book idea which focuses on what core skills a developer will need to succeed i
 ## Gitbook link
 
 A link of the Gitbook can be found by going [here](https://digitalmockingbird.gitbooks.io/competency/content/).
+
+## Credit
+
+The idea for this book's structure is from [Sijin Joseph's Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/).
