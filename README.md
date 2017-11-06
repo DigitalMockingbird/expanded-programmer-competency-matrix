@@ -1,2 +1,13 @@
 # The Expanded Programmer Competency Matrix
-Currently a work in progress.
+
+A book idea which focuses on what core skills a developer will need to succeed in the field. This project has been archived for now.
+
+## Screenshot
+
+### A sample chapter
+
+![book-screenshot](book-screenshot.png)
+
+## Gitbook link
+
+A link of the Gitbook can be found by going [here](https://digitalmockingbird.gitbooks.io/competency/content/).
